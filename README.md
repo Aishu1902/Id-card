@@ -1,2 +1,4 @@
 # Id-card
- Id card with Html and CSS 
+
+ </br>
+ <i>Designed a personalized ID card using HTML and CSS as one of my initial projects, which helped me grasp the foundational concepts of structuring webpages and applying styles. </i>
